@@ -46,10 +46,3 @@ End-to-end smart city analytics suite spanning traffic safety, infrastructure, a
 
 - AI & ML Engineer Certification — Full Stack Academy
 - AI Engineer Certification — Codebasics (AI Engineering Bootcamp)
-
----
-
-### 📊 GitHub Stats
-
-![Kalpana's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpanaselvaa&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpanaselvaa&layout=compact&hide_border=true)
